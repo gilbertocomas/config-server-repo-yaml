@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: Hola, desde el microservicio DEPARTMENT
+    message: Hola, desde el microservicio DEPARTMENT ACTUALIZADO
   jpa:
     open-in-view: 'false'
     hibernate:
