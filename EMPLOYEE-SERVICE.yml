@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: Hola, desde el microservicio EMPLOYEE con Spring Cloud Bus Demo
+    message: Hola, desde el microservicio EMPLOYEE con Spring Cloud Bus
   jpa:
     open-in-view: 'false'
     hibernate:
