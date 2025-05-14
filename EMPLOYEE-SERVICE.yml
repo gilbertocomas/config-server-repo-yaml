@@ -1,5 +1,6 @@
 spring:
-  message: Hola, desde el microservicio EMPLOYEE
+  boot:
+    message: Hola, desde el microservicio EMPLOYEE
   jpa:
     open-in-view: 'false'
     hibernate:
