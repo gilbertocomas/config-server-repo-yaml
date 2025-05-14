@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: Hola, desde el microservicio DEPARTMENT con Spring Cloud Bus
+    message: Hola, desde el microservicio DEPARTMENT con Spring Bus
   jpa:
     open-in-view: 'false'
     hibernate:
